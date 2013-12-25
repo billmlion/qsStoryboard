@@ -18,7 +18,7 @@ UITableViewDelegate,PullingRefreshTableViewDelegate,ASIHTTPRequestDelegate>
 {
     //未登陆显示
     UIImageView *headlogoView; //求是百科的logo
-    
+    //test testStoryboard
     
     //随机、8小时最糗、7天内最糗、一个月最糗、真相
     QiuShiTime MainQiuTime;
